@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/hoodiehq/hoodie-standalone-store#readme",
   "devDependencies": {
-    "semantic-release": "^4.3.2",
+    "semantic-release": "^6.0.3",
     "standard": "^5.1.0"
   },
   "dependencies": {
