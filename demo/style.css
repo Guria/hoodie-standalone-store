@@ -1,0 +1,39 @@
+ul {
+  list-style-type: none;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+#container {
+  padding: 100px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 100%;
+  background: #ece0ec;
+  color: #013220;
+  width: 600px;
+  height: auto;
+  align-items: center;
+  }
+
+#checklist {
+  text-align: left;
+  margin: 0 auto;
+  width: 600px;
+  padding 100px;
+  }
+
+#content {
+  padding: 50px;
+  background-color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 100%;
+  color: CF5300;
+}
+
+h1 {
+  color: #013220
+}

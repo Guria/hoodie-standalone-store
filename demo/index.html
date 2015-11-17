@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<html>
+<head>
+  <title>To Do List</title>
+
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+  <div id="container">
+    <form class="js-add-todo">
+      <div role="main" class="content">
+        <h1>Let's get you organised!</h1>
+        <label for="todo-input">Enter a todo</label>
+        <input type="text" class="js-todo-task" id="todo-input" placeholder="What do you need to do?"/>
+        <button type="submit">Add Item</button>
+      </div>
+      <p>
+        <button class="js-check-all">Check all items</button>
+        <button class="js-clear-todos">Clear checked items</button>
+      </p>
+    </form>
+    <div id="checklist">
+    <ul class="js-todo-container"></ul>
+  </div>
+</div>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="store.js"></script>
+  <script src="code.js"></script>
+
+</body>
+</html>
