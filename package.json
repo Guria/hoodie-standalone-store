@@ -36,7 +36,7 @@
     "h2o2": "^4.0.1",
     "hapi": "^11.0.2",
     "hapi-cors-headers": "^1.0.0",
-    "hoodie-client-store": "^2.0.0",
+    "hoodie-client-store": "^3.0.0",
     "hoodie-server-store": "^1.0.1",
     "humble-localstorage": "^1.4.1",
     "inert": "^3.0.1",
